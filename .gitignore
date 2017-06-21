@@ -1,0 +1,13 @@
+
+# IAR Settings
+**/settings/*
+
+# IAR Debug
+**/Exe/*
+**/List/*
+**/Obj/*
+**/Output/*
+**/Output/
+
+# IAR Project
+*.dep
